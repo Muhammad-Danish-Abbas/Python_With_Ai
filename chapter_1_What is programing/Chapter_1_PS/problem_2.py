@@ -1,0 +1,1 @@
+# Multiply 5 to 10 one by one in terminal 
